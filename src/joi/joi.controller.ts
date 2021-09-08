@@ -218,7 +218,7 @@ export class JoiController {
       });
       console.log({ queryLastConnection });
       user.lastConnection = !queryLastConnection.length
-        ? 'Hola por primera vez'
+        ? 'Buenas Buenas!!'
         : queryLastConnection[0].last_connection;
 
       const newConnection = {

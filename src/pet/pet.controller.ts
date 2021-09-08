@@ -27,4 +27,3 @@ export class PetController {
 }
 
 //url a llamar http://localhost:3000/pet/axios
-

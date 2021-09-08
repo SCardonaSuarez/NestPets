@@ -125,7 +125,7 @@
       "properties": {
         "email": {
           "type": "string",
-          "example": "vero@email.com",
+          "example": "santo@santo.com",
           "description": "should be a valid email"
         },
         "password": {
@@ -143,7 +143,7 @@
         },
         "name": {
           "type": "string",
-          "example": "Vero"
+          "example": "Santo"
         },
         "last_name": {
           "type": "string",
@@ -151,7 +151,7 @@
         },
         "email": {
           "type": "string",
-          "example": "vero@email.com"
+          "example": "santo@santo.com"
         },
         "lastConnection": {
           "type": "string",

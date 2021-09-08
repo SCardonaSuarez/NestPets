@@ -1,7 +1,6 @@
 import { ApiProperty } from '@nestjs/swagger';
 import { IsNotEmpty, IsEnum, Length } from 'class-validator';
 
-
 export class AuthPayload {
   @ApiProperty({
     description: 'User id',
