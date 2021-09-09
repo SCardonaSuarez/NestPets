@@ -130,7 +130,7 @@
         },
         "password": {
           "type": "string",
-          "example": "Abc1234&yuy",
+          "example": "Santo123@santo.com",
           "description": "should have an uppercase, lowercase, number, special charecter and min 8 lenght"
         }
       }
@@ -143,11 +143,11 @@
         },
         "name": {
           "type": "string",
-          "example": "Santo"
+          "example": "Santiago"
         },
         "last_name": {
           "type": "string",
-          "example": "Ardila"
+          "example": "Cardona"
         },
         "email": {
           "type": "string",
@@ -155,7 +155,7 @@
         },
         "lastConnection": {
           "type": "string",
-          "example": "25 de Agosto de 2021"
+          "example": "8/09/2021"
         },
         "token": {
           "type": "string",
@@ -174,15 +174,15 @@
       "properties": {
         "name": {
           "type": "string",
-          "example": "Jhon"
+          "example": "Julia"
         },
         "lastName": {
           "type": "string",
-          "example": "Doe"
+          "example": "Suarez"
         },
         "email": {
           "type": "string",
-          "example": "jhondoe@email.com",
+          "example": "caro@cardo.com",
           "description": "should be a valid email"
         },
         "password": {
@@ -215,7 +215,7 @@
       },
       "name": {
         "type": "string",
-        "example": "kira"
+        "example": "niky"
       },
       "category": {
         "type": "integer",
